@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+SW_Push_3PDT,SW1,3PDT.LUGS.FLPVSK,
+SwitchConn,J1,PinHeader_1x06_P2.54mm_Vertical,
+LED,D1,LED_Rectangular_W5.0mm_H2.0mm,
+R-LED,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,
